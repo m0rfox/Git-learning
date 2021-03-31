@@ -5,7 +5,13 @@ public class Main {
     public static void main(String[] args) {
 
 	System.out.println("Hello World");
+	System.out.println("Hello <EPAM>"); //Создаем конфликт для операции pull
+	System.out.println("Hello pull");  // Строка изменена через браузер
 	System.out.println("Hello <EPAM>");
-	// коменнтарий для stashing
+	int newFeature1 = 10; // commit one for rebase
+	int newFeature2 = 20; // commit two for rebase
+	boolean x = false; // commit for revert
+		//  добавили tags
+		// comment for cherry pick
     }
 }
