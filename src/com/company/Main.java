@@ -11,5 +11,6 @@ public class Main {
 	int newFeature1 = 10; // commit one for rebase
 	int newFeature2 = 20; // commit two for rebase
 	boolean x = false; // commit for revert
+		//  добавили tags
     }
 }
