@@ -6,5 +6,6 @@ public class Main {
 
 	System.out.println("Hello World");
 	System.out.println("Hello <EPAM>");
+	System.out.println("Hello pull");  // Строка изменена через браузер 
     }
 }
