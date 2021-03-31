@@ -10,6 +10,6 @@ public class Main {
 	System.out.println("Hello <EPAM>");
 	int newFeature1 = 10; // commit one for rebase
 	int newFeature2 = 20; // commit two for rebase
-	boolean x = false; // commit for revert
+	boolean xy = false; // commit for revert
     }
 }
