@@ -12,5 +12,6 @@ public class Main {
 	int newFeature2 = 20; // commit two for rebase
 	boolean x = false; // commit for revert
 		//  добавили tags
+		// comment for cherry pick
     }
 }
