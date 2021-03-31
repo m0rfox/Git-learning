@@ -6,5 +6,6 @@ public class Main {
 
 	System.out.println("Hello World");
 	System.out.println("Hello <EPAM>");
+	int newFeature1 = 10; // commit one for rebase
     }
 }
